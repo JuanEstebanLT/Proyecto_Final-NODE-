@@ -287,6 +287,15 @@ La URL base de producción es: `https://proyecto-final-node-4rnd.onrender.com`
 
 ---
 
+---
+
+## Diagrama Entidad Relacion
+
+<img width="1241" height="841" alt="Diagrama sin título drawio (3)" src="https://github.com/user-attachments/assets/237eaefd-6b5d-451d-92ae-4b7b7f9531ad" />
+
+
+---
+
 ## Referencias Bibliográficas
 
 OpenJS Foundation. (2024). *Node.js documentation*. https://nodejs.org/en/docs/
